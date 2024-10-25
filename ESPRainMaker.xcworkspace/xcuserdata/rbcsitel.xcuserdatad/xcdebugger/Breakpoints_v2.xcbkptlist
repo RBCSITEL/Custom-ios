@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "145E0FF3-4D92-4265-A90C-1EDF13E84AA9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AACAB40-9C48-46CC-92D4-E0CF4EE2C8EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/User Management/SignInViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "ScannerViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - fe18448ecded2bff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ESP_RainMaker.ScannerViewController"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-ok-1_2%20_3/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - d6af39a99f52ac37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ESP_RainMaker.ScannerViewController&gt;"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-ok-1_2%20_3/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - f04bfb4fa137c708"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.__deallocating_deinit"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-ok-1_2%20_3/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - 32a2f2be2ecb8e1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ESP_RainMaker.ScannerViewController"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-5-9-23/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - 1a158f997c7409d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ESP_RainMaker.ScannerViewController&gt;"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-5-9-23/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - 3cf14d7f42111aa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.__deallocating_deinit"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-5-9-23/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - 71f7a0586c90305d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ESP_RainMaker.ScannerViewController"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-261023/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - 5940dd7f3e2fb795"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ESP_RainMaker.ScannerViewController&gt;"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-261023/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - 7fa41f99004adc66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.__deallocating_deinit"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-261023/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - e5d379a6eb77b4d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ESP_RainMaker.ScannerViewController"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-271123/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - cd640481b9c8331b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ESP_RainMaker.ScannerViewController&gt;"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-271123/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - eb80c66787ad51e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.__deallocating_deinit"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-271123/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - c35549c9b79db410"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ESP_RainMaker.ScannerViewController"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-281123/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - ebe234eee52233d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ESP_RainMaker.ScannerViewController&gt;"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-281123/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - cd06f608db4750a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.__deallocating_deinit"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-281123/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - c255b1e88617b218"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ESP_RainMaker.ScannerViewController"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-011223/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - eae2cccfd4a835d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ESP_RainMaker.ScannerViewController&gt;"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-011223/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "B6CE02DD-94FB-404A-8F23-988AF9D6B380 - cc060e29eacd5eab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.ScannerViewController.__deallocating_deinit"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rbcsitel/Documents/esp-rainmaker-ios-beta-011223/ESPRainMaker/ESPRainMaker/Interface/Provision/ScannerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

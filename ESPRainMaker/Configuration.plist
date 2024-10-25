@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AWS Configuration</key>
+	<dict>
+		<key>App Client ID</key>
+		<string>5oob84lq01a7hu2dngt185batr</string>
+		<key>Authentication URL</key>
+		<string>https://rbcsitel-iot.auth.us-east-1.amazoncognito.com/oauth2</string>
+		<key>Base URL</key>
+		<string>https://zc6ryhckf4.execute-api.us-east-1.amazonaws.com/dev</string>
+		<key>Redirect URL</key>
+		<string>com.rbcsitel.iot://success</string>
+		<key>Claim URL</key>
+		<string></string>
+	</dict>
+	<key>External Links</key>
+	<dict>
+		<key>Term. de Uso</key>
+		<string>https://esp-rainmaker-rbc-sitel-privacy-terms.s3.amazonaws.com/Terminos_de_Uso.txt</string>
+		<key>Política de Privacidad</key>
+		<string>https://esp-rainmaker-rbc-sitel-privacy-terms.s3.amazonaws.com/Politica_de_Privacidad.txt</string>
+		<key>WEB</key>
+		<string>https://rbcsitel.com</string>
+	</dict>
+	<key>App Configuration</key>
+	<dict>
+		<key>Enable Grouping</key>
+		<true/>
+		<key>Enable Schedule</key>
+		<true/>
+		<key>Enable Local Control</key>
+		<true/>
+		<key>Enable Sharing</key>
+		<true/>
+		<key>Enable Scene</key>
+		<false/>
+		<key>Enable Device Automation</key>
+		<false/>
+		<key>Enable OTA Update</key>
+		<false/>
+		<key>User Pool</key>
+		<integer>2</integer>
+		<key>Enable Continuous Updates</key>
+		<true/>
+		<key>Continuous Update Interval</key>
+		<integer>400</integer>
+	</dict>
+	<key>Provision Settings</key>
+	<dict>
+		<key>ESP Transport</key>
+		<string>BLE</string>
+		<key>BLE Device Prefix</key>
+		<string>PROV_</string>
+		<key>ESP Allow Prefix Search</key>
+		<false/>
+		<key>ESP Securtiy Mode</key>
+		<string>Secure</string>
+		<key>ESP Scan Enabled</key>
+		<true/>
+	</dict>
+	<key>App Group</key>
+	<string></string>
+	<key>App Theme Color</key>
+	<string>#FFFFFF</string>
+	<key>ESP Alexa Configuration</key>
+	<dict>
+		<key>Alexa Client Id</key>
+		<string></string>
+		<key>Alexa Client Secret</key>
+		<string></string>
+		<key>Alexa RM Client Id</key>
+		<string></string>
+		<key>Skill Id</key>
+		<string></string>
+		<key>Skill Stage</key>
+		<string></string>
+		<key>Redirect URL</key>
+		<string></string>
+		<key>Alexa Access Token URL</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
